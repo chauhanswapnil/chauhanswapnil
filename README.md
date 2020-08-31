@@ -1,6 +1,6 @@
 ### Hi there, I'm Swapnil Chauhan 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/swapnil_1234?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fswapnil_1234&screen_name=swapnil_1234)
+[![Twitter Follow](https://img.shields.io/twitter/follow/swapstar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fswapstar&screen_name=swapstar)
 
 ## I'm a Developer and Co-Founder of [Reltec][website] !
 
@@ -49,7 +49,7 @@
 ---
 
 [website]: https://reltec.co.in
-[twitter]: https://twitter.com/swapnil_1234
+[twitter]: https://twitter.com/swapstar
 [linkedin]: www.linkedin.com/in/chauhanswapnil
 
 [twitterReltec]: https://twitter.com/reltecin

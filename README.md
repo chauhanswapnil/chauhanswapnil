@@ -47,7 +47,7 @@
 <br />
 
 ---
-[personal] : https://www.swapnilchauhan.com
+[personal]: https://swapnilchauhan.com
 [website]: https://reltec.co.in
 [twitter]: https://twitter.com/swapstar
 [linkedin]: www.linkedin.com/in/chauhanswapnil

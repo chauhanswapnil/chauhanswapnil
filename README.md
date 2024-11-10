@@ -15,6 +15,9 @@ Some things about me:
 [![Twitter Follow](https://img.shields.io/twitter/follow/swapstar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fswapstar&screen_name=swapstar)
 
 ## Currently Working On:
+### PickleDNS - Recursive DNS Resolver in Rust
+I am making a recursive DNS Resolver written in Rust, aiming to having it resolve all the basic queries in a somewhat performant way. Checkout the GitHub Project [here](https://github.com/chauhanswapnil/pickle-dns)
+
 ### Clox - Compiler and VM for Lox
 CLox is an implementation of the programming language Lox in C. Currently working on the orginal implementation of Lox from the book [Crafting Interpreters](https://github.com/munificent/craftinginterpreters).
 Repository for the implementation: https://github.com/chauhanswapnil/clox
